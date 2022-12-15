@@ -3,5 +3,6 @@
     align-items: center;
     justify-content:space-evenly;
     flex-direction: row;
+    flex-wrap: wrap;
 }
 /* Your CSS Code here. */
